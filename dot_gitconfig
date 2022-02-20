@@ -1,0 +1,5 @@
+[core]
+	excludesfile = /Users/stephen.kluthe@verses.io/.gitignore
+[user]
+	name = SelfhostedPro
+	email = info@selfhosted.pro
